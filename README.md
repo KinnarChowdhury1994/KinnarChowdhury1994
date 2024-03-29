@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinnarchowdhury1994" alt="kinnarchowdhury1994" /></a> </p>
 
-- 📫 How to reach me **kinnarchowdhury@gmail.com**
+- 📫 How to reach me **kc1988@cse.jgec.ac.in** or **kinnarchowdhury@gmail.com**
 
 - ⚡ Fun fact **I love music**
 
