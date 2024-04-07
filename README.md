@@ -1,7 +1,14 @@
 ## :smiley:,Hi I'm Kinnar Chowdhury ## :gem: Connect with me:
 <h4 align="left">I passionately love to develop REST API as well as DevOps practices.</h4>
 <p>:house: Asansol, Paschim Barbhaman, West Bengal, India :India: </p>
-<p align="left"><a href="https://linkedin.com/in/kinnar-chowdhury-a5b1a9109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinnar-chowdhury-a5b1a9109" height="30" width="40" /></a><a href="https://fb.com/kinnar.chowdhury.1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinnar.chowdhury.1994" height="30" width="40" /></a></p>
+<p align="left"><a href="https://linkedin.com/in/kinnar-chowdhury-a5b1a9109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinnar-chowdhury-a5b1a9109" height="30" width="40" /></a><a href="https://github.com/KinnarChowdhury1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KinnarChowdhury1994" height="30" width="40" /></a><a href="https://fb.com/kinnar.chowdhury.1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinnar.chowdhury.1994" height="30" width="40" /></a><a href="https://stackoverflow.com/users/24088546/kinnar-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kinnar-chowdhury" height="30" width="40" /></a><a href="https://twitter.com/KinnarChowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KinnarChowdhury" height="30" width="40" /></a></p>
+
+<p align="center">
+ <a href="https://github.com/KinnarChowdhury1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KinnarChowdhury1994" height="30" width="40" /></a>
+</p>
+
+
+
  - :briefcase: I’m currently working as <b>Senior Software Programmer & DevOps Engineer</b> at <b>MSQUBE Technology Solutions Pvt. Ltd. :calendar: 2019 - Present</b><br>
  - :email: Reach me at <b>kc1988@cse.jgec.ac.in</b> | <b>kinnarchowdhury@gmail.com</b>.<br>
  - :telephone_receiver: <b>+91-8918939197</b><br>
