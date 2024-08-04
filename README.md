@@ -29,6 +29,7 @@
 - :robot: <b>Learning Networking using Python, NginX<b> - https://github.com/KinnarChowdhury1994/vlearn_assessment_networking
 - :robot: <b>Learning Git</b> - https://github.com/KinnarChowdhury1994/git_assignment_HeroVired
 - :robot: <b>Learning Python</b> - https://github.com/KinnarChowdhury1994/vlearn_assessment_python
+- :robot: <b>Learning Kubernetes</b> - https://github.com/KinnarChowdhury1994/learning_kubernetes
 - :robot: <b>Playing From Scratch!!<b> - https://github.com/KinnarChowdhury1994/kc_2024_v1-0
 
 ## :crown: Preferred Languages and Tools:
